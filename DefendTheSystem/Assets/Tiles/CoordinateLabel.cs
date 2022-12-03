@@ -5,7 +5,7 @@ using UnityEngine;
 
 
 [ExecuteAlways]
-public class CorrdinateLabel : MonoBehaviour
+public class CoordinateLabel : MonoBehaviour
 {
     TextMeshPro label;
     Vector2Int coordinates = new Vector2Int();
